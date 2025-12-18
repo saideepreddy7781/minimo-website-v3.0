@@ -18,7 +18,7 @@ export default function ContactPage() {
           <h2 className="font-medium">Visit Us</h2>
           <p className="mt-2 text-sm opacity-80">582, 10th Main Road, ISRO Layout, Bengaluru, Karnataka, 560076</p>
           <a
-            href="https://maps.google.com/?q=582, 10th Main Road, ISRO Layout, Bengaluru, Karnataka, 560076"
+            href="https://maps.app.goo.gl/xRzZ74GuncyWuYgg9, 10th Main Road, ISRO Layout, Bengaluru, Karnataka, 560076"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center justify-center mt-3 h-10 px-4 rounded-full bg-[#FF9500] text-white shadow-[0_16px_40px_-16px_rgba(255,149,0,0.9)] hover:-translate-y-0.5 transition">
